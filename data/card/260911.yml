@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.1.7"
   latestRelease: "v0.1.7"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:10:24Z
+  collectedAt: 2026-09-11T19:44:10Z
 timeline:
   created: 2024-02-03
   lastCommit: 2026-01-01
@@ -84,7 +84,7 @@ total:
   commit: 301
 ---
 path: /home/runner/.x-repo/github.com/ratatui-org/crates-tui
-collectedAt: 2026-09-11T05:10:25Z
+collectedAt: 2026-09-11T19:44:11Z
 loc:
   Rust:
     code: 3057
