@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 10820,
       "digest": null,
-      "download_count": 20,
+      "download_count": 21,
       "created_at": "2024-02-12T16:23:02Z",
       "updated_at": "2024-02-12T16:23:02Z",
       "browser_download_url": "https://github.com/ratatui/crates-tui/releases/download/v0.1.7/crates-tui-installer.ps1"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 25029,
       "digest": null,
-      "download_count": 20,
+      "download_count": 21,
       "created_at": "2024-02-12T16:23:01Z",
       "updated_at": "2024-02-12T16:23:01Z",
       "browser_download_url": "https://github.com/ratatui/crates-tui/releases/download/v0.1.7/crates-tui-installer.sh"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 104,
       "digest": null,
-      "download_count": 24,
+      "download_count": 25,
       "created_at": "2024-02-12T16:22:59Z",
       "updated_at": "2024-02-12T16:22:59Z",
       "browser_download_url": "https://github.com/ratatui/crates-tui/releases/download/v0.1.7/crates-tui-x86_64-pc-windows-msvc.zip.sha256"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 3427140,
       "digest": null,
-      "download_count": 91,
+      "download_count": 92,
       "created_at": "2024-02-12T16:22:58Z",
       "updated_at": "2024-02-12T16:22:59Z",
       "browser_download_url": "https://github.com/ratatui/crates-tui/releases/download/v0.1.7/crates-tui-x86_64-unknown-linux-gnu.tar.xz"
