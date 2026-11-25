@@ -45,12 +45,12 @@ Total: **3,131** lines of code across **26** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-28 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-29 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-12-04 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-29 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-30 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-05 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -70,15 +70,6 @@ Total: **3,131** lines of code across **26** files in the top 5 languages.
 | [source.tar.gz](https://github.com/ratatui-org/crates-tui/releases/download/v0.1.7/source.tar.gz) | 59.2 KiB | `native/unknown` |
 | [source.tar.gz.sha256](https://github.com/ratatui-org/crates-tui/releases/download/v0.1.7/source.tar.gz.sha256) | 80 B | `other` |
 
-## Distribution status
-
-Reported by **9** distros on [repology.org](https://repology.org/project/crates-tui). **5** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.1.25` | ✅ latest |
-| Nix unstable | `0.1.25` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for crates-tui lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `crates-tui` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -88,4 +79,4 @@ Install metadata for crates-tui lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:14:25Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:28:11Z._
