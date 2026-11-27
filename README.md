@@ -20,7 +20,7 @@ Total: **3,131** lines of code across **26** files in the top 5 languages.
 |----------|-----:|---------:|-------:|------:|
 | Rust | 3,057 | 30 | 415 | 22 |
 | Toml | 74 | 9 | 7 | 2 |
-| Markdown | 0 | 212 | 104 | 2 |
+| Markdown | 0 | 230 | 107 | 2 |
 
 ## Source
 
@@ -30,7 +30,7 @@ Total: **3,131** lines of code across **26** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.1.7` (2024-02-12)
-- **Last commit**: 2026-11-02
+- **Last commit**: 2026-11-26
 - **Assets in release**: 13
 
 ## Popularity
@@ -39,18 +39,18 @@ Total: **3,131** lines of code across **26** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 5 · **Merged PRs**: 115 · **Open PRs**: 3 · **Closed issues**: 8 · **Open issues**: 1 · **Commits**: 307
+- **Releases**: 5 · **Merged PRs**: 117 · **Open PRs**: 1 · **Closed issues**: 8 · **Open issues**: 1 · **Commits**: 309
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-28 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-30 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-12-01 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-12-06 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-29 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-31 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-12-02 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-07 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for crates-tui lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T08:41:16Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T09:25:23Z._
